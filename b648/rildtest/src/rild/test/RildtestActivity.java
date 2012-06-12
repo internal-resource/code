@@ -115,8 +115,7 @@ public class RildtestActivity extends Activity implements OnItemClickListener {
                 tc = new testDeactivateDataCall();
                 break;
             case 11:
-                //finish();
-                onDestroy();
+                finish();
                 break;
             default:
                 break;
