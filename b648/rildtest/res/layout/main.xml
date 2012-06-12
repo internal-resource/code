@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnTell"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tell" />
+
+        <Button
+            android:id="@+id/btnAnswer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/answer" />
+
+        <Button
+            android:id="@+id/btnHangup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hangup" />
+
+        <Button
+            android:id="@+id/btnResetModem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/resetmodem" />
+
+        <Button
+            android:id="@+id/btnRadioOn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RadioOn" />
+
+        <Button
+            android:id="@+id/btnradiopoweroff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/radiopoweroff" />
+
+        <Button
+            android:id="@+id/btnunsolicitednetworkchange"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/unsolicitednetworkchange" />
+
+        <Button
+            android:id="@+id/btnQXDMlogenable"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/QXDMlogenable" />
+
+        <Button
+            android:id="@+id/btnQXDMlogdisable"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/QXDMlogdisable" />
+
+        <Button
+            android:id="@+id/SetupDataCall"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/SetupDataCall" />
+
+        <Button
+            android:id="@+id/btnDeactivateDataCall"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/DeactivateDataCall" />
+    </LinearLayout>
+
+</ScrollView>

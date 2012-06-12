@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RildtestActivity!</string>
+    <string name="app_name">Rild测试</string>
+    <string name="rildtest">Rild测试程序</string>
+    <string name="tell">Dial Call(10086)</string>
+    <string name="answer">Answer Call</string>
+    <string name="hangup">End Call</string>
+    <string name="resetmodem">Reset Radio</string>
+    <string name="radiopoweroff">Radio Power Off</string>
+    <string name="unsolicitednetworkchange">Unsolicited Network Change</string>
+    <string name="QXDMlogenable">QXDM log Enable</string>
+    <string name="QXDMlogdisable">QXDM log Disable</string>
+    <string name="RadioOn">Radio On</string>
+    <string name="SetupDataCall">Setup Data Call</string>
+    <string name="DeactivateDataCall">Deactivate Data Call</string>
+</resources>
